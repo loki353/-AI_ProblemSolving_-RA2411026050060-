@@ -2,7 +2,7 @@
 
 ## 👨‍💻 Student Details
 
-**Name:** BLokesh
+**Name:** B Lokesh
 **Course:** Artificial Intelligence Lab
 
 ---
