@@ -155,12 +155,8 @@ AI_ProblemSolving_<RegNo>/
 # 📸 Sample Outputs
 
 ## Tic-Tac-Toe
-
 ## Navigation
-
-(Add your screenshot here)
-
----
+**** in the folders ****
 
 # 🚀 Key Features
 
